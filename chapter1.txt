@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello. I don't know what I'm doing right now. But I got some ideas now. So this change must be reflected in the git.
+=======
+Hello. I don't know what I'm doing right now. asdfsadfs
+fsafasdfasdfsadfsaf sfdasf safsa fsa fas
+>>>>>>> 48ef8437d2cb07a68f1ae702a2208623bec0adce
